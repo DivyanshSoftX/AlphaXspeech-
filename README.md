@@ -7,7 +7,10 @@ installation
 pip install SpeechRecognition pyttsx3 pyaudio transformers torch nltk
 4. then wait a while! !
 5. then type:
-chatbot.py
+python chatbot.py
 and enter
 then ai chatbot start chating via voice
 or typing
+
+if not working so after 3rd step do install another codeby:pip install transformers torch nltk
+then all steps same
